@@ -1,2 +1,2 @@
-# Estimando-Pre-os-dos-Im-veis-de-Boston
+# Estimando Precos dos Imoveis de Boston
 Nanodegree Engenheiro de Machine Learning - Udacity
